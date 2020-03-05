@@ -1,5 +1,9 @@
 {
   "name": "sticher",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe217c43"
 }
